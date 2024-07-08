@@ -2,21 +2,34 @@
 
 ## Hey! Nice to see you. 👋
 ### About Me:
-- My majors are statistic and AI.
+- My majors are statistics and AI.
 - I’m currently learning Data Analysis and Data Engineering.
 - How to reach me: eej3652@gmail.com
 
 ### Work  Experience
-- Data Scientist @ 차세대융합기술연구원 컴퓨터비전 및 인공지능 연구실
+**차세대융합기술연구원 컴퓨터비전 및 인공지능 연구실**
 
 ### Projects
-- Stock Trading AI
+- [Stock Trading AI](https://github.com/euneun9/StockTradingAI)
   - Description:
   - Technologies Used:
-  - Results: 
-- Daycare-Community-Selection-Model 
+  - Results:
+    
+- Daycare-Community-Selection-Model
+  - Description:
+  - Technologies Used:
+  - Results:
+    
 - Sputtering-and-deposition-of-thin-films-prediction-based-on-deep-learning
+  - Description:
+  - Technologies Used:
+  - Results:
+    
 - Selection-of-CCTV-location-in-Gimhae
+  - Description:
+  - Technologies Used:
+  - Results:
+ 
 - content-based-model(Recomend System)
   - Description: The aim of this project is to develop a content-based recommender system that recommends similar movies to a user's input, by analyzing textual features such as title, genre, description, keywords and credits.
   - Technologies Used: The notebooks uses Count Vectorizer, Porter Stemmer, Cosine Similarity and Streamlit library.
