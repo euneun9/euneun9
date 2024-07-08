@@ -30,7 +30,7 @@
   - Technologies Used:
   - Results:
  
-- content-based-model(Recomend System)
+- [content-based-model(Recomend System)](https://github.com/euneun9/RecSys_content-based-model)
   - Description: The aim of this project is to develop a content-based recommender system that recommends similar movies to a user's input, by analyzing textual features such as title, genre, description, keywords and credits.
   - Technologies Used: The notebooks uses Count Vectorizer, Porter Stemmer, Cosine Similarity and Streamlit library.
   - Results: Successfully built a recommender algorithm that produces a list of 5 recommended movies and deployed the model as a web application using Streamlit Life Expectancy Prediction
