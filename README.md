@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=360&text=Hello+World%21&fontSize=70&fontAlign=50&fontAlignY=50&desc=Happy+EunJi%27s+page&descSize=20&descAlign=50&descAlignY=60)
 
 ## Hi, I'm EunJi. 👋
-### About Me
-  - 📚 통계학과, 정보시스템공학과(AI학부) 전공
-  - 🌱 데이터 분석(데이터 사이언티스트)와 데이터 엔지니어가 되기 위해 공부중입니다. 
+### 🌱About Me🌱
+  -  통계학과, 정보시스템공학과(AI학부) 전공
+  -  데이터 분석(데이터 사이언티스트)와 데이터 엔지니어가 되기 위해 공부중입니다. 
 
 ### 💻 Project 💻
 <div style="display:flex; flex-direction:row;">
