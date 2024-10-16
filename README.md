@@ -54,8 +54,10 @@
 </div><br>
 
 ---
+### 🚌 Top Langs & Algorithm
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euneun9&layout=compact)
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=euneun9&theme=tokyonight&show_icons=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=euneun9&show_icons=true" width="50%" />
 </a>
 
