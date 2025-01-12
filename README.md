@@ -7,6 +7,8 @@
 
 ### 💻 Project 💻
 <div style="display:flex; flex-direction:row;">
+    <li>(23.11 ~ 24.12) 우대리: RAG를 활용한 Chatbot 서비스(PLM Assistant) </li>
+    <li>(24.9) DART OPENAPI를 활용한 기업 분석 리포트 </li>
     <li>(23.11 ~ 23.12) 강화학습 모델을 이용한 주식거래모델 </li>
     <li>(23.11 ~ 23.12) 강화학습 모델을 이용한 지렁이 게임 학습 </li>
     <li>(23.10) 영화리뷰 데이터를 이용한 추천시스템 </li>
