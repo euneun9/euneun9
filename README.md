@@ -7,6 +7,7 @@
 
 ### 💻 Project 💻
 <div style="display:flex; flex-direction:row;">
+    <li>(25.3) 로컬 환경 챗봇 만들기(deepseek-r1 + RAG) </li>
     <li>(23.11 ~ 24.12) 우대리: RAG를 활용한 Chatbot 서비스(PLM Assistant) (🥇 우리FISA) </li>
     <li>(24.9) DART OPENAPI를 활용한 기업 분석 리포트 </li>
     <li>(24.03) 강화학습 모델을 이용한 지렁이 게임 학습 </li>
